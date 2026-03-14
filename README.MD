@@ -1,5 +1,10 @@
 # Forest Productivity and Degradation Monitoring — Paragominas (TerrAmaz)
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white)
+
 ## Dissertation
 
 The full dissertation titled *"Productivité végétale et dégradation forestière : Étude à Paragominas dans le cadre du projet TerrAmaz"* is available in this repository. You can view or download it [here](./UE801_Rapport_LucasLima.pdf).

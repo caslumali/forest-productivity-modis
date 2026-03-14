@@ -1,4 +1,4 @@
-### README for Forest Productivity and Degradation Monitoring Project
+### Forest productivity and degradation analysis using MODIS EVI time series
 
 ## Dissertation
 

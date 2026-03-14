@@ -1,4 +1,4 @@
-# Forest productivity and degradation analysis using MODIS EVI time series
+# Forest Productivity and Degradation Monitoring — Paragominas (TerrAmaz)
 
 ## Dissertation
 

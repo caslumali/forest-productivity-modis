@@ -1,4 +1,4 @@
-### Forest productivity and degradation analysis using MODIS EVI time series
+# Forest productivity and degradation analysis using MODIS EVI time series
 
 ## Dissertation
 
